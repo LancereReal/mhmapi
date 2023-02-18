@@ -1,0 +1,279 @@
+[
+  {
+    "_id": "622540d71870a8f86dbc9d42",
+    "CodeName": "banned",
+    "Active": false,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 618,
+        "Amount": 1
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "622540ea1870a8f86dbc9d43",
+    "CodeName": "JUMP",
+    "Active": true,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 682,
+        "Amount": 10
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "622541021870a8f86dbc9d44",
+    "CodeName": "1000visit",
+    "Active": false,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 709,
+        "Amount": 1
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "622541221870a8f86dbc9d45",
+    "CodeName": "InfernoBox",
+    "Active": true,
+    "Special": false,
+    "Awards": [],
+    "Boxes": [
+      {
+        "BoxName": "Inferno",
+        "Amount": 100
+      }
+    ]
+  },
+  {
+    "_id": "622cc8f5943678fc722c4fc7",
+    "CodeName": "MagBox",
+    "Active": false,
+    "Special": false,
+    "Awards": [],
+    "Boxes": [
+      {
+        "BoxName": "Magnificent",
+        "Amount": 25
+      }
+    ]
+  },
+  {
+    "_id": "622cca1b943678fc722c4fc8",
+    "CodeName": "15kVisits",
+    "Active": false,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 749,
+        "Amount": 1
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "6249f2b3840bc24ab0997b14",
+    "CodeName": "dintisgod",
+    "Active": false,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 754,
+        "Amount": 2
+      },
+      {
+        "ItemId": 755,
+        "Amount": 2
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "625b61cdd707e844d9a2f476",
+    "CodeName": "sorry",
+    "Active": false,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 727,
+        "Amount": 1
+      }
+    ],
+    "Boxes": [
+      {
+        "BoxName": "Inferno",
+        "Amount": 1000
+      }
+    ]
+  },
+  {
+    "_id": "626b23c1e90a758e8f22fbc3",
+    "CodeName": "dintisnoob",
+    "Active": false,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 487,
+        "Amount": 2
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "628a71d40e3514d0e139a1a5",
+    "CodeName": "60kVisits",
+    "Active": true,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 789,
+        "Amount": 1
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "629049e61c5c34da038ff176",
+    "CodeName": "Oops",
+    "Active": false,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 581,
+        "Amount": 50
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "632f2d5fab14b58bf71148c0",
+    "CodeName": "Sky",
+    "Active": true,
+    "Special": false,
+    "Awards": [],
+    "Boxes": [
+      {
+        "BoxName": "Inferno",
+        "Amount": 500
+      }
+    ]
+  },
+  {
+    "_id": "632f37a7ab14b58bf71148ea",
+    "CodeName": "OmegaSky",
+    "Active": true,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 591,
+        "Amount": 1
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "63376fa5744bf0d2b363ba26",
+    "CodeName": "Trilinisty",
+    "Active": true,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 537,
+        "Amount": 1
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "63382300df457177a09fa771",
+    "CodeName": "Teleporters",
+    "Active": true,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 754,
+        "Amount": 1
+      },
+      {
+        "ItemId": 755,
+        "Amount": 1
+      },
+      {
+        "ItemId": 487,
+        "Amount": 1
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "6338234adf457177a09fa772",
+    "CodeName": "Plasma",
+    "Active": true,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 618,
+        "Amount": 1
+      }
+    ],
+    "Boxes": [
+      {
+        "BoxName": "Inferno",
+        "Amount": 100
+      }
+    ]
+  },
+  {
+    "_id": "636fdaa99a31d9042911a5af",
+    "CodeName": "over99player",
+    "Active": true,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 591,
+        "Amount": 4
+      },
+      {
+        "ItemId": 871,
+        "Amount": 1
+      },
+      {
+        "ItemId": 444,
+        "Amount": 900
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "636fdd6c9a31d9042911a5b6",
+    "CodeName": "basematerial",
+    "Active": true,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 443,
+        "Amount": 4567
+      }
+    ],
+    "Boxes": []
+  },
+  {
+    "_id": "63782d5c9648bb32725eb451",
+    "CodeName": "superdupersecretdonttellanyoneitsveryoppleaseitsjustfordevs",
+    "Active": true,
+    "Special": false,
+    "Awards": [
+      {
+        "ItemId": 800,
+        "Amount": 5
+      }
+    ],
+    "Boxes": []
+  }
+]
